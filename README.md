@@ -19,4 +19,4 @@ PocketMuseum is a multi-platform application designed and developed for art love
 * Take a photo of the art, get the instant introduction 
 
 ## APP Screenshot
-![screenshot]https://github.com/HaochenQ/PocketMuseum/blob/master/img/Screen%20Shot%202020-02-19%20at%2010.56.12%20pm.png
+![screenshot](https://github.com/HaochenQ/PocketMuseum/blob/master/img/Screen%20Shot%202020-02-19%20at%2010.56.12%20pm.png)
